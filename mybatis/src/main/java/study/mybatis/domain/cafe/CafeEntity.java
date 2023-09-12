@@ -7,7 +7,7 @@ import lombok.Data;
 @Builder
 public class CafeEntity {
 
-    private String userId;
-    private String name;
-    private String info;
+	private String userId;
+	private String name;
+	private String info;
 }

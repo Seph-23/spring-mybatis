@@ -7,7 +7,7 @@ import lombok.Data;
 @Builder
 public class UserEntity {
 
-    private Long userId;
-    private String name;
-    private String email;
+	private Long userId;
+	private String name;
+	private String email;
 }

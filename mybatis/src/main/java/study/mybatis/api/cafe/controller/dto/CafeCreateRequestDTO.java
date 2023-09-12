@@ -11,6 +11,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class CafeCreateRequestDTO {
 
-    private String name;
-    private String info;
+	private String name;
+	private String info;
 }
